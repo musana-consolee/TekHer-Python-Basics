@@ -1,2 +1,1 @@
-Report Title: Data Analysis Summary
-Date: 2024-05-20
+Data analysis report
